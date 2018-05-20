@@ -361,6 +361,10 @@ input.input100 {
   background: linear-gradient(-45deg, #ac32e4, #7918f2, #4801ff);
 }
 
+.bg-img {
+  background-image: url(images/bg.jpg);
+}
+
 
 
 
